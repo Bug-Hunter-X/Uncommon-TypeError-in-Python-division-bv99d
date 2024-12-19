@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon TypeError in Python that can arise from attempting division where one operand is an integer and the other is a string.  The `bug.py` file shows the problematic code, while `bugSolution.py` provides a solution that handles this type of error appropriately.
